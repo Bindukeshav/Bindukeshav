@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
 
-<!--
-**Bindukeshav/Bindukeshav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  AI/ML enthusiast building agentic AI projects · Currently prepping for internships
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on
+
+- 🧠 Building a **multi-tool AI agent** with **LangGraph + Groq** — tools include web search, a calculator, weather lookup, and a code executor, served through a **FastAPI** backend with **SQLite checkpointing** for persistent conversation history.
+- 🎥 Previously shipped **YT Doubt Solver** — a Chrome extension + RAG backend that lets you ask questions about any YouTube video you're watching, using Groq (Llama 3.1), FAISS, and sentence-transformers for retrieval.
+- 🔌 Up next: an **MCP-style agent/chatbot**, exploring the Model Context Protocol.
+- 🎯 Actively applying for AI/ML internships.
+
+### 🛠️ Tools & Tech
+
+**Languages:** Python, JavaScript
+
+**AI / ML:** LangChain, LangGraph, Groq API, FAISS, sentence-transformers, RAG pipelines
+
+**Backend:** FastAPI, SQLite
+
+**Other:** Chrome Extensions (Manifest V3), Git & GitHub, VS Code, PowerShell
+
+### 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| [YT Doubt Solver](#) | Chrome extension + RAG backend for Q&A on YouTube videos |
+| [Multi-Tool AI Agent](#) | LangGraph + Groq agent with FastAPI backend and conversation memory |
+
+### 📫 How to reach me
+
+- LinkedIn:https://www.linkedin.com/in/bindu-keshav-380b34425?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: bndkshv@gmail.com
+
+
+---
+
+<p align="center"><i>⭐️ Feel free to explore my repos and reach out if you want to collaborate!</i></p>
