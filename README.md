@@ -56,11 +56,6 @@
 ---
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindukeshav&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 ---
 
 <p align="center"><i>⭐️ Feel free to explore my repos — always open to collaborating on AI/agent projects!</i></p>
