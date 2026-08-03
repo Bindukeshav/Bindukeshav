@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm [Bindu Keshav] 👋</h1>
+<h1 align="center">Hey there, I'm Bindu Keshav 👋</h1>
 
 <p align="center">
   AI/ML enthusiast building agentic AI projects · Currently prepping for internships
