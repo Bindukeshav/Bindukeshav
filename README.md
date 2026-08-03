@@ -1,41 +1,70 @@
-<h1 align="center">Hey there, I'm Bindu Keshav 👋</h1>
+<h1 align="center">Hi 👋, I'm Bindu Keshav</h1>
+<h3 align="center">AI/ML enthusiast building agentic AI systems · Prepping for internships</h3>
 
 <p align="center">
-  AI/ML enthusiast building agentic AI projects · Currently prepping for internships
+  <a href="https://www.linkedin.com/in/bindu-keshav-380b34425" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bndkshv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Bindukeshav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bindukeshav&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 What I'm currently working on
+### 🚀 Currently building
 
-- 🧠 Building a **multi-tool AI agent** with **LangGraph + Groq** — tools include web search, a calculator, weather lookup, and a code executor, served through a **FastAPI** backend with **SQLite checkpointing** for persistent conversation history.
-- 🎥 Previously shipped **YT Doubt Solver** — a Chrome extension + RAG backend that lets you ask questions about any YouTube video you're watching, using Groq (Llama 3.1), FAISS, and sentence-transformers for retrieval.
-- 🔌 Up next: an **MCP-style agent/chatbot**, exploring the Model Context Protocol.
-- 🎯 Actively applying for AI/ML internships.
-
-### 🛠️ Tools & Tech
-
-**Languages:** Python, JavaScript
-
-**AI / ML:** LangChain, LangGraph, Groq API, FAISS, sentence-transformers, RAG pipelines
-
-**Backend:** FastAPI, SQLite
-
-**Other:** Chrome Extensions (Manifest V3), Git & GitHub, VS Code, PowerShell
-
-### 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| [YT Doubt Solver](#) | Chrome extension + RAG backend for Q&A on YouTube videos |
-| [Multi-Tool AI Agent](#) | LangGraph + Groq agent with FastAPI backend and conversation memory |
-
-### 📫 How to reach me
-
-- LinkedIn:https://www.linkedin.com/in/bindu-keshav-380b34425?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: bndkshv@gmail.com
-
+- 🧠 **Multi-Tool AI Agent** — a LangGraph + Groq agent with web search, calculator, weather, and code-executor tools, served through a FastAPI backend with SQLite checkpointing for persistent conversation history
+- 🎥 **YouTube RAG Chatbot** — a Chrome extension + RAG backend for asking questions about any YouTube video, powered by Groq (Llama 3.1), FAISS, and sentence-transformers
+- 🔌 **Next up:** an MCP-style agent/chatbot
+- 🎯 Actively applying for AI/ML internships
 
 ---
 
-<p align="center"><i>⭐️ Feel free to explore my repos and reach out if you want to collaborate!</i></p>
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+|  | Project | Description |
+|:---:|---|---|
+| 🤖 | [**ai-multi-tool-agent**](https://github.com/Bindukeshav/ai-multi-tool-agent) | LangGraph + Groq multi-tool agent with FastAPI backend & SQLite checkpointing |
+| 🎥 | [**Youtube-RAG-chatbot**](https://github.com/Bindukeshav/Youtube-RAG-chatbot) | RAG-powered Chrome extension for Q&A on YouTube videos |
+| 🗄️ | [**sql-data-warehouse-project**](https://github.com/Bindukeshav/sql-data-warehouse-project-) | Modern data warehouse in SQL Server — ETL, data modeling & analytics |
+| 🧭 | [**my-campus-navigation**](https://github.com/Bindukeshav/my-campus-navigation) | Campus navigation web app built in JavaScript |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bindukeshav&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bindukeshav&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindukeshav&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center"><i>⭐️ Feel free to explore my repos — always open to collaborating on AI/agent projects!</i></p>
